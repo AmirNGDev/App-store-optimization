@@ -1,6 +1,8 @@
 # App Store Optimization(ASO)
 One of the best articles on app optimization for store in Farsi language
 
+---
+## 📷Screenshots :
 
 ![Screenshot (362)](https://github.com/SeyyedAmirNimaGhaebi/App-store-optimization/assets/124828880/1be5482f-ff01-4c01-addf-19da1754cf95)
 
