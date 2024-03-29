@@ -7,7 +7,7 @@ One of the best articles on app optimization for store in Farsi language
 #### Pages: 31
 #### Data create: 1/29/2024
 
-<a href="https://github.com/SeyyedAmirNimaGhaebi/DataBase_hive_in_flutter/releases/tag/pdf">Link download article</a>
+<a href="https://github.com/SeyyedAmirNimaGhaebi/App-store-optimization/releases/download/PDF/ASO.pdf">Download</a>
 
 ---
 ## 📷Screenshots :
